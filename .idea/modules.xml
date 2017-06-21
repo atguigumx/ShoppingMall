@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ShoppingMall.iml" filepath="$PROJECT_DIR$/ShoppingMall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gradationscroll/gradationscroll.iml" filepath="$PROJECT_DIR$/gradationscroll/gradationscroll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teache-app/teache-app.iml" filepath="$PROJECT_DIR$/teache-app/teache-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zXingDemo/zXingDemo.iml" filepath="$PROJECT_DIR$/zXingDemo/zXingDemo.iml" />
+    </modules>
+  </component>
+</project>

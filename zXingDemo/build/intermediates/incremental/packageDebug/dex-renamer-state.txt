@@ -1,0 +1,7 @@
+#Mon Jun 19 21:13:53 CST 2017
+base.0=D\:\\development\\yangguangfu\\ShoppingMall\\zXingDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_221c0c93f6bd50a35f8e0613bdbf27589ea42183
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\development\\yangguangfu\\ShoppingMall\\zXingDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_184cff3308446e7bc1f45f070d1b29b1b7b3da6f\\classes.dex
+base.1=D\:\\development\\yangguangfu\\ShoppingMall\\zXingDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_184cff3308446e7bc1f45f070d1b29b1b7b3da6f
+file.0=D\:\\development\\yangguangfu\\ShoppingMall\\zXingDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_221c0c93f6bd50a35f8e0613bdbf27589ea42183\\classes.dex

@@ -1,0 +1,3 @@
+include ':app', ':gradationscroll', ':teache-app'
+
+include ':zXingDemo'

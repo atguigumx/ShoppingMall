@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="banner-1.4.5">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/teache-app/build/intermediates/exploded-aar/com.youth.banner/banner/1.4.5/res" />
+      <root url="jar://$PROJECT_DIR$/teache-app/build/intermediates/exploded-aar/com.youth.banner/banner/1.4.5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.youth.banner/banner/1.4.5/941006623dd976beb1a92f44dad576bc84e87bb7/banner-1.4.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
